@@ -2,7 +2,7 @@
 
 The structure of the project:
 ----------------
-* **dat_generator.py** - Functions for generating the data for the numerical experiment
+* **data_generator.py** - Functions for generating the data for the numerical experiment
 * **KCNODE.py** - Classes and methods for building neural ODE models
 ---------------
 * **Baseline model.ipynb** - Example using the baseline model
