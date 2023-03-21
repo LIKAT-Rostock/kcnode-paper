@@ -11,9 +11,9 @@ The structure of the project:
 * **Training.ipynb** - Example demonstrating the training of the neural ODE models
 ---------------
 * **\trained_models** - Directory with a trained model of neural ODE
-    * **baseline.pickle** - The baseline neural ODE model.
-    * **KCNODE_methanation.pickle** - The KCNODE model for CO<sub>2</sub> hydrogenation to CH<sub>4</sub> 
-    * **KCNODE_FT.pickle** - The KCNODE model for CO<sub>2</sub> hydrogenation to hydrocarbons via FT
+    * **baseline.pt** - The baseline neural ODE model.
+    * **KCNODE_methanation.pt** - The KCNODE model for CO<sub>2</sub> hydrogenation to CH<sub>4</sub> 
+    * **KCNODE_FT.pt** - The KCNODE model for CO<sub>2</sub> hydrogenation to hydrocarbons via FT
 
 ----------------
 * **Python version**:3.9.12
