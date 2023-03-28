@@ -160,14 +160,13 @@ class KineticConstrainedFTNN(torch.nn.Module):
         x = torch.tanh(self.layer_1(x))
         
         x = torch.sigmoid(self.layer_out(x))
-        
-        # Scaling outputs for empirical parameters        
-        alpha1 = x[:, 5:6]*0.3+0.5
-        alpha2 = x[:, 6:7]*0.2
-        fraction = x[:, 7:8]*0.3
-        alpha_en = x[:, 8:9]*0.4+0.3
-        frac_en2 = x[:, 9:10]*0.6        
-        alpha_oh = x[:, 10:11]*0.5        
+
+        alpha1 = x[:, 5:6]
+        alpha2 = x[:, 6:7]
+        fraction = x[:, 7:8]
+        alpha_en = x[:, 8:9]
+        frac_en2 = x[:, 9:10]
+        alpha_oh = x[:, 10:11]
         frac_oh1 = x[:, 11:12]
 
         xt = torch.exp(self.layer_T(temperature))
