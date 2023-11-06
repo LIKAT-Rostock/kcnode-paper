@@ -41,7 +41,7 @@ Install the dependencies with `pip install -r requirements.txt`
 
 ## Authors
 
-* Aleksandr Fedorov
+* Aleksandr Fedorov [![](https://info.orcid.org/wp-content/uploads/2020/12/orcid_16x16.gif)](https://orcid.org/0000-0001-6434-6623) (on GitHub [fizorg103](https://github.com/fizorg103))
 * David Linke [![](https://info.orcid.org/wp-content/uploads/2020/12/orcid_16x16.gif)](https://orcid.org/0000-0002-5898-1820) (on GitHub [dalito](https://github.com/dalito))
 
 ## Acknowledgement
