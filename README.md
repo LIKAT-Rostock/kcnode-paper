@@ -1,6 +1,6 @@
 # Kinetic-constrained neural ODE (KCNODE)
 
-> This repository supplements our Chemical Engineering Journal paper ([doi:10.1016/j.cej.2023.146869](https://doi.org/10.1016/j.cej.2023.146869)) and the earlier ChemRXIV preprint ([doi:10.26434/chemrxiv-2023-x39xt](https://doi.org/10.26434/chemrxiv-2023-x39xt)).
+> This repository supplements our Chemical Engineering Journal paper ([doi:10.1016/j.cej.2023.146869](https://doi.org/10.1016/j.cej.2023.146869)) and the earlier ChemRXIV preprint ([doi:10.26434/chemrxiv-2023-x39xt](https://doi.org/10.26434/chemrxiv-2023-x39xt)). The catalytic data is available via the link [Repo4Cat/21.11165/2d97-u7yd](https://hdl.handle.net/21.11165/4cat/2d97-u7yd).
 
 ## Contents of the repository
 
